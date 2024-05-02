@@ -5,8 +5,10 @@ This repository is using for exemple for DevOps class
 <p>Titulo teste de <strong>markdown</strong></p>
 
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>git init</li>
+  <li>git add *</li>
+  <li>git commit -m ""</li>
+  <li>git branch -M main</li>
+  <li>git remote add origin [https://github.com/GCardos00/cola.git]</li>
+  <li>git push -u origin main</li>
 </ol>
